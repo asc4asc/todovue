@@ -4,7 +4,7 @@
 
 	'use strict';
 
-	var STORAGE_KEY = 'todos-vuejs';
+	var STORAGE_KEY = 'todos-vuejs1';
 
 	exports.todoStorage = {
 		fetch: function () {
